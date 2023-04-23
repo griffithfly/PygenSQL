@@ -125,7 +125,7 @@ class Create_Table:
         f.write("SET ANSI_PADDING OFF\n")
         f.write("GO\n")
         
-        # -- facility Zika ck--
+        # -- facility ZIKA ck--
         ck_string = []
         if dfile['Facility Type'].unique() == 'Zika':
             for i in range(len(dfile['Variable / Field Name'])):

@@ -28,3 +28,11 @@ if __name__ == "__main__":
 
 **Module 2** check values before input data to the database. If any error codes showing, the detail can be found in the error report.
 
+
+<img width="990" alt="Screen Shot 2023-04-23 at 1 40 49 AM" src="https://user-images.githubusercontent.com/131559221/233822046-1c292116-1ebd-482b-ba23-4905ab63b256.png">
+
+
+
+
+
+

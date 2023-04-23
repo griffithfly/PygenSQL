@@ -6,7 +6,7 @@ PygenSQL is based on Python, which aims to provide a way to easy and efficient t
 
 ## Module 1 Example
 
-The first module creates a .txt file containing SQL queries. If any field is successfully generated, `field_name [Done]` and total numbers will be shown. 
+**Module 1** creates a .txt file containing SQL queries. If any field is successfully generated, `field_name [Done]` and total numbers will be shown. 
 ```
 if __name__ == "__main__":
     file = Create_Table()
@@ -22,8 +22,9 @@ if __name__ == "__main__":
 
 
 ## Module 2 Example
-a.	Code 1000 – Check whether the length of columns in a data dictionary and data export is the same. 
-b.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
-c.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
+1.	Code 1000 – Check whether the length of columns in a data dictionary and data export is the same. 
+2.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
+3.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
 
+**Module 2** check values before input data to the database. If any error codes showing, the detail can be found in the error report.
 

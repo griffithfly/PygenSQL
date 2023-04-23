@@ -49,7 +49,7 @@ if __name__ == "__main__":
 **Module 3** provides SQL INSERT INTO statement. 
 ```
 if __name__ == "__main__":
-    files = Insert_Table('cleaned_r21_form.csv').sql_insert()
+    files = Insert_Table('Your_data_export.csv').sql_insert()
 ```
 
 

@@ -3,7 +3,7 @@ PygenSQL is based on Python, which aims to provide a way to easy and efficient t
 
 ## Module 1 Example
 
-The first module is created a .txt file containing SQL queries. If any field is successfully generated, the total numbers and field_name and [Done] will be showing. Please find the screenshot 1.
+The first module is created a .txt file containing SQL queries. If any field is successfully generated, the total numbers and `field_name [Done]` will be showing. Please find the screenshot 1.
 ```
 if __name__ == "__main__":
     file = Create_Table()

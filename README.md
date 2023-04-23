@@ -22,4 +22,8 @@ if __name__ == "__main__":
 
 
 ## Module 2 Example
+a.	Code 1000 – Check whether the length of columns in a data dictionary and data export is the same. 
+b.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
+c.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
+
 

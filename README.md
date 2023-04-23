@@ -40,5 +40,11 @@ if __name__ == "__main__":
 ### Module 2 Result (.txt file)
 
 
+<img width="629" alt="Screen Shot 2023-04-23 at 1 49 45 AM" src="https://user-images.githubusercontent.com/131559221/233822394-8a03f7ec-bb58-4754-ad62-c88c16e61e88.png">
+
+
+
+
+
 
 

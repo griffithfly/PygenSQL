@@ -5,11 +5,7 @@ import re
 import csv
 
 class Create_Table:
-    """
-    Create SQL quries
-    """
     def __init__(self):
-        """Initialize"""
         self.dloc = None
         self.dfile = None
         

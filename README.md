@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 <img width="993" alt="Screen Shot 2023-04-23 at 1 22 55 AM" src="https://user-images.githubusercontent.com/131559221/233821327-3dfb6e4a-3b2b-4112-afdb-eeb8798433c2.png">
 
-** Module 1 Result (.txt file) **
+### Module 1 Result (.txt file)
 <img width="631" alt="Screen Shot 2023-04-23 at 1 25 25 AM" src="https://user-images.githubusercontent.com/131559221/233821566-98b3d2ae-c883-423e-b15d-c4dce2d023c9.png">
 
 

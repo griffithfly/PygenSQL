@@ -11,7 +11,7 @@ if __name__ == "__main__":
     fields = file.genquery_table_dic('Your_data_dictionary.csv')
     print(fields)
 ```
-
+### Result(.txt file)
 <img width="993" alt="Screen Shot 2023-04-23 at 1 22 55 AM" src="https://user-images.githubusercontent.com/131559221/233821327-3dfb6e4a-3b2b-4112-afdb-eeb8798433c2.png">
 
 ## Module 2 Example

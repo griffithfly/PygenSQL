@@ -25,7 +25,7 @@ if __name__ == "__main__":
 1.	Code 1000 – Check whether the length of columns in a data dictionary and data export is the same. 
 2.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
 3.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
-4.	Code 3000 - check the range for each column field. If a value is out of range, the ID, wrong value, and suggestion range will be provided in the report.
+4.	Code 3000 - check the range for each column field. For example, if a value is out of range, the ID, wrong value, and suggestion range will be provided in the report.
 5.	Code 5000 - check logic for each field. For instance, if column A = 1, column B could not be null. If column B is showing any value, the report will be showing: the ID, value of column A, value of column B, and logical detail.
 
 **Module 2** checks values before input data to the database. If any error code(s) showing, the detail can be found in the error report.

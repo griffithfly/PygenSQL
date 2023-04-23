@@ -1,5 +1,8 @@
 # PygenSQL
-PygenSQL is based on Python, which aims to provide a way to easy and efficient to automatically create useable SQL queries for users. **Module 1** generates SQL queries for creating tables, which exports a .txt file containing create a new table in a database. **Module 2** runs data assessment for data quality. This module can check fields/variables based on the data dictionary. If any errors are found, a .txt summary report will be generated. **Module 3** provides SQL queries for inserting/updating tables. 
+PygenSQL is based on Python, which aims to provide a way to easy and efficient to automatically create useable SQL queries for users. 
+- **Module 1** generates SQL queries for creating tables, which exports a .txt file containing create a new table in a database. 
+- **Module 2** runs data assessment for data quality. This module can check fields/variables based on the data dictionary. If any errors are found, a .txt summary report will be generated. 
+- **Module 3** provides SQL queries for inserting/updating tables. 
 
 ## Module 1 Example
 

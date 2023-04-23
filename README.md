@@ -26,7 +26,7 @@ if __name__ == "__main__":
 2.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
 3.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
 
-**Module 2** check values before input data to the database. If any error codes showing, the detail can be found in the error report.
+**Module 2** check values before input data to the database. If any error code(s) showing, the detail can be found in the error report.
 ```
 if __name__ == "__main__":
     files = Check_Table('Your_data_dictionary.csv', 'Your_data_export.csv').check_fields()

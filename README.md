@@ -3,8 +3,8 @@ PygenSQL is based on Python, which aims to provide a way to easy and efficient t
 
 ## Module 1 Example
 
-`if __name__ == "__main__":
-    file = Create_Table()
-    loc = file.get_fields('your_data_dictionary.csv')
-    fields = file.genquery_table_dic('your_data_dictionary.csv')
-    print(fields)`
+`if __name__ == "__main__":`
+`    file = Create_Table()`
+`    loc = file.get_fields('your_data_dictionary.csv')`
+`    fields = file.genquery_table_dic('your_data_dictionary.csv')`
+`    print(fields)`

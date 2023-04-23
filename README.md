@@ -27,7 +27,12 @@ if __name__ == "__main__":
 3.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
 
 **Module 2** check values before input data to the database. If any error codes showing, the detail can be found in the error report.
-
+```
+if __name__ == "__main__":
+    files = Check_Table('Your_data_dictionary.csv', 'Your_data_export.csv').check_fields()
+    report = Check_Table('Your_data_dictionary.csv', 'Your_data_export.csv').field_report()
+    report = Check_Table('Your_data_dictionary.csv', 'Your_data_export.csv').logical_report()
+```
 
 <img width="990" alt="Screen Shot 2023-04-23 at 1 40 49 AM" src="https://user-images.githubusercontent.com/131559221/233822046-1c292116-1ebd-482b-ba23-4905ab63b256.png">
 

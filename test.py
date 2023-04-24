@@ -14,12 +14,13 @@ print(fields)
 
 import pandas as pd
 import Creat_SQL_table as ct
+
 unit_test = pd.read_excel('example_data_dictionary.xlsx')
 file = ct.Create_Table()
 loc = file.get_fields('example_data_dictionary.xlsx')
 fields = file.genquery_table_dic('example_data_dictionary.xlsx')
-
 print(fields, len(unit_test)) # Output: (['visitid [Done]', 'SYS_LOC_CODE [Done]', 'marital_status [Done]', 'conc [Done]', 'analyte [Done]'], 5) 5
+
 ## A .txt file will be created in the same directory containing SQL queries for creating a table.
 ## The First 5 is 5 fields were successfully processed. The second 5 is the length of fields in the data dictionary file.
 ## Numbers are the same means all variables are processed.

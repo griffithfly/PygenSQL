@@ -1,7 +1,7 @@
 # PygenSQL
 PygenSQL is based on Python, which aims to provide a way to easy and efficient to automatically create useable SQL queries for users. 
 - **Module 1** generates SQL queries for creating tables, which exports a .txt file containing create a new table in a database. 
-- **Module 2** runs data assessment for data quality. This module can check fields/variables based on the data dictionary. If any errors are found, a .txt summary report will be generated. Please find error codes overview:
+- **Module 2** runs data assessment for data quality. This module can check fields/variables based on the data dictionary. If any errors are found, a .txt summary report will be generated. Please the find error codes overview:
 1.	Code 1000 – Check whether the length of columns in a data dictionary and data export is the same. 
 2.	Code 1001 – If the length is not the same, the missing column/variable will be shown in the report. 
 3.	Code 2000 - check sequence of variables in a data dictionary and data export is the same. If not, the right position(s) will be shown in the report.
